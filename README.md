@@ -45,4 +45,4 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yamuna-cu.visitor-badge&left_color=green&right_color=red)
 
 [![Yamuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamuna-cu)](https://github.com/yamuna-cu/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamuna-cu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamuna-cu&layout=compact)](https://github.com/yamuna-cu/github-readme-stats)
